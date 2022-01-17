@@ -1,3 +1,4 @@
+/*No thread*/
 public class App001 {
 
     public static void main(String[] args) {
