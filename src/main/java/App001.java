@@ -1,4 +1,4 @@
-/*No thread*/
+/*No thread program*/
 public class App001 {
 
     public static void main(String[] args) {
