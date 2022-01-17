@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-/*No thread program*/
->>>>>>> cb2a3fb (Committing App001 change)
 public class App001 {
 
     public static void main(String[] args) {
