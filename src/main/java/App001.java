@@ -16,6 +16,6 @@ public class App001 {
     }
 
     private static void showImage(){
-        System.out.println("Showing image...");
+        System.out.println("Showing image..");
     }
 }
